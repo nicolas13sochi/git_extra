@@ -1,1 +1,3 @@
 Hello, this is BACKTRACKING.
+This is an example to git reset HEAD <filename>
+1
